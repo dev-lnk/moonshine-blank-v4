@@ -5,6 +5,8 @@
 /storage/pail
 /vendor
 /**/vendor
+!/public/vendor
+!/lang/vendor
 /fixer/vendor
 .env
 .env.backup
