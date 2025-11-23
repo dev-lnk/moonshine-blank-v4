@@ -6506,16 +6506,16 @@
         },
         {
             "name": "dev-lnk/moonshine-builder",
-            "version": "3.0.1",
+            "version": "3.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dev-lnk/moonshine-builder.git",
-                "reference": "c19ed4ea23d74d1352b2dca5c912e9bfd4b99162"
+                "reference": "767d4df76f93bc82c22116363bdd140fde5906d7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dev-lnk/moonshine-builder/zipball/c19ed4ea23d74d1352b2dca5c912e9bfd4b99162",
-                "reference": "c19ed4ea23d74d1352b2dca5c912e9bfd4b99162",
+                "url": "https://api.github.com/repos/dev-lnk/moonshine-builder/zipball/767d4df76f93bc82c22116363bdd140fde5906d7",
+                "reference": "767d4df76f93bc82c22116363bdd140fde5906d7",
                 "shasum": ""
             },
             "require": {
@@ -6565,9 +6565,9 @@
             ],
             "support": {
                 "issues": "https://github.com/dev-lnk/moonshine-builder/issues",
-                "source": "https://github.com/dev-lnk/moonshine-builder/tree/3.0.1"
+                "source": "https://github.com/dev-lnk/moonshine-builder/tree/3.0.2"
             },
-            "time": "2025-11-23T12:57:33+00:00"
+            "time": "2025-11-23T13:29:30+00:00"
         },
         {
             "name": "fakerphp/faker",
